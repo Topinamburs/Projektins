@@ -1,6 +1,6 @@
 # Projektins
 Komandas biedri: Kristaps Vecbērzs
-
+test
 Ideja/mērķis: Uzbūvēt web-scraper, kurš no RIMI mājaslapas nolasa visu produktu nosaukumus, cenu un, ja iespējams, pat sastāvu vai atlaižu periodus.
 Tad exportē datus uz vieu lielu csv failu, lai lietotājs varētu ērti atrast nepieciešamos produktus, zinātu to cenu un sastāvu, uzzinātu par jaunākajām atlaidēm
 un izplānotu pirkumus jau iepriekš.
