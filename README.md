@@ -12,3 +12,7 @@ līdz 10.12.2023 saprast kurā programmēšanas valodā to darīt (esmu dirdēji
 līdz 15.12.2023 trenēties izvēlētajā valodā dažādu web-scraperu uzdevumus, dziļi izprast to funkciju un pielietojumus, izdomāt kā es pats varēsu iegūt un apstrādāt milzīgu datu daudzumu.
 
 līdz 22.12.2023 sākt rakstīt īsto programmu, izlemt par frontend eksistēšanu
+
+līdz 7.01.2024 0 darbs, jo neesmu Latvijā
+
+pēc 7.01.2024 finishing touches
