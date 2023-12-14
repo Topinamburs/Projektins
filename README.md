@@ -5,14 +5,13 @@ Ideja/mērķis: Uzbūvēt web-scraper, kurš no RIMI mājaslapas nolasa visu pro
 Tad exportē datus uz vieu lielu csv failu, lai lietotājs varētu ērti atrast nepieciešamos produktus, zinātu to cenu un sastāvu, uzzinātu par jaunākajām atlaidēm
 un izplānotu pirkumus jau iepriekš.
 
-Plāns (iespējams netiks stingri ievērots, jo olimpiādes un ZPD nepieļauj brīvus brīžus):
+Plāns:
 
-līdz 10.12.2023 saprast kurā programmēšanas valodā to darīt (esmu dirdējis baumas, ka python carētu būt elementārāks, tomēr labāk māku java), sameklēt kā web-scraperi izskatas abās valodās, izvērtēt +/-.
+līdz Ziemassvētkiem saprast kurā programmēšanas valodā to darīt (esmu dirdējis baumas, ka python carētu būt elementārāks, tomēr labāk māku java), sameklēt kā web-scraperi izskatas abās valodās, izvērtēt +/-  (reāla kvalitatīva koda rakstīšana nesanāks, jo līdz Ziemsassvētkiem netrūkst darbu skolā, olimpiāžu ).
 
-līdz 15.12.2023 trenēties izvēlētajā valodā dažādu web-scraperu uzdevumus, dziļi izprast to funkciju un pielietojumus, izdomāt kā es pats varēsu iegūt un apstrādāt milzīgu datu daudzumu.
 
-līdz 22.12.2023 sākt rakstīt īsto programmu, izlemt par frontend eksistēšanu
+Pēc Ziemassvētkiem, kad darbu daudzumks skolā būs mazāks, trenēties izvēlētajā valodā dažādu web-scraperu uzdevumus, dziļi izprast to funkciju un pielietojumus, izdomāt kā es pats varēsu iegūt un apstrādāt milzīgu datu daudzumu.
 
-līdz 7.01.2024 0 darbs, jo neesmu Latvijā
+Janvārī-februārī sākt rakstīt īsto programmu, RIMI mājaslapu nolasīšana nav joka lieta, izlemt par frontend eksistēšanu.
 
-pēc 7.01.2024 finishing touches
+Martā finishing touches
